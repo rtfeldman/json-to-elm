@@ -1,5 +1,5 @@
 # json-to-elm
-Create Elm type aliases and decoders based on JSON input
+Create Elm type aliases and decoders based on JSON input. Try it out at [json2elm.org](http://json2elm.org/)!
 
 This project allows you to automate the creation of:
 
